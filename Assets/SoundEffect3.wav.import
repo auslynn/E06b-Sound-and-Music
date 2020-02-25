@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SoundEffect3.wav-94820678dcc6756f4ca83ee383f793b5.sample"
+
+[deps]
+
+source_file="res://Assets/SoundEffect3.wav"
+dest_files=[ "res://.import/SoundEffect3.wav-94820678dcc6756f4ca83ee383f793b5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
